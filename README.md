@@ -16,8 +16,8 @@
 🎯 **Goal:** Building amazing user experiences  
 
 ### 🌟 Currently Learning:
-- 🎨 **Frontend:** HTML, CSS, **JavaScript**
-- ⚡ **Backend:** C# development
+- 🎨 **Frontend:** HTML, CSS, Dart, **JavaScript**
+- ⚡ **Backend:** C#, C++, Java, NodeJS
 - 🖥️ **Desktop Apps:** AvaloniaUI, ReactiveUI, WPF
 
 ---
