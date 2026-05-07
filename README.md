@@ -31,7 +31,7 @@ struct Developer {
 impl Developer {
     fn new() -> Self {
         Self {
-            name:       "YOUR_NAME",
+            name:       "NotionMe",
             focus:      ["Java", "Rust", "TypeScript"],
             philosophy: "If it compiles, ship it.",
             currently:  "Building something cursed",
