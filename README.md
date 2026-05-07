@@ -104,7 +104,7 @@ impl Developer {
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/6f0db5f1-e393-4339-930e-322c684b8154" width="480px" alt="dark anime"/>
+<img src="https://i.pinimg.com/originals/23/31/35/2331352783185bdc61379459d5a26553.gif" width="480px" alt="dark anime"/>
 
 ## 死ぬまで書くコード — *Code until you die*
 
